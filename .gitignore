@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Secrets — NEVER commit Stripe keys
+.env
+.env.local
+.env.production
+
+# Dependencies
+node_modules/
