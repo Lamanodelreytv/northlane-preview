@@ -1,0 +1,3 @@
+# Preview version — do not index
+User-agent: *
+Disallow: /
